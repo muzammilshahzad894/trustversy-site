@@ -33,8 +33,7 @@ const Banner = () => {
                             <div className='arrowThree'></div>
                             <div className='arrowFour'></div>
                             <div className='arrowFive'></div>
-                            {/* <Image className='baner-image' src="/images/Banner/Banners.png" alt="nothing" width={1013} height={760} /> */}
-                            <img className='banner-image' src="/images/Banner/Banner.png" alt="nothing" style={{width: '1013px', height: '760px'}} />
+                            <Image className='baner-image' src="/images/Banner/banners.png" alt="nothing" width={1013} height={760} />
                             <div className='arrowSix'></div>
                             <div className='arrowSeven'></div>
                             <div className='arrowEight'></div>
